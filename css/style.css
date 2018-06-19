@@ -8,3 +8,12 @@
     background-color: gray;
     color: blue
 }
+
+.koolKlossils {
+  background-color: pink;
+  border: yellow 20px solid;
+  font-size: 30pt;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+}
